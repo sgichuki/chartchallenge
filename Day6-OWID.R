@@ -17,7 +17,7 @@ df1_long <- df1 %>%
   pivot_longer(df1, 
                cols = c("plant_protein","meat","eggs","dairy","fish_and_seafood"),
                names_to = "food", 
-               values_to = "grams_per_capita") #c("plant_protein","meat","eggs","dairy","fish and seafood"))
+               values_to = "grams_per_capita")
 
 df1_long$food <- as.factor(df1_long$food)
 
