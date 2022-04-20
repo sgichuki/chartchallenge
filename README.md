@@ -15,4 +15,4 @@ The data is from the EDGAR database of the European Union.
 
 ## Day 20 - New tools 
 
-![](foodprices_plot.png)
+![](foodpricesplot.png)
