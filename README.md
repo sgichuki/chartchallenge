@@ -13,6 +13,8 @@ The data is from the EDGAR database of the European Union.
 
 ![](globaltoxics.png)
 
-## Day 20 - New tools 
+## Day 20 - New tool
+
+This plot was created using the seaborn library
 
 ![](foodpricesplot.png)
