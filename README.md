@@ -18,3 +18,13 @@ The data is from the EDGAR database of the European Union.
 This plot was created using the seaborn(Python) library, data is from Our World in Data (OWID - domestic food price volatility index)
 
 ![](foodpricesplot.png)
+
+## Day 21 - up-down
+![](alternativefuelvehicles.png)
+
+![](alternativefuel_percentchange.png)
+
+
+
+
+
