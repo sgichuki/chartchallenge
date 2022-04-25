@@ -24,6 +24,10 @@ This plot was created using the seaborn(Python) library, data is from Our World 
 
 ![](alternativefuel_percentchange.png)
 
+## Day 24 - theme day - Financial Times 
+
+![](Day24plot.png)
+
 
 
 
