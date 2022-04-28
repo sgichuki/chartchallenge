@@ -32,7 +32,7 @@ This plot was created using the seaborn(Python) library, data is from Our World 
 
 Employment trends in France as reported every month. Here CDD, i.e. fixed term contracts of a month or more are plotted along with CDI jobs i.e. permanent contracts.
 
-![](embaucheplot.png)
+![](embauche_plot.png)
 
 
 
